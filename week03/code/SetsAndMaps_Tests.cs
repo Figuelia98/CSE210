@@ -150,7 +150,7 @@ public class SummarizeDegreesTests
             {"1st-4th", 168},
             {"Preschool", 51},
             {"12th", 433},
-        };
+           };
 
         CollectionAssert.AreEqual(expected, result);
     }
